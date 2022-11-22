@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: e998e2328e0c1d24b858804a116452cb
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: The Nautigal
+  fontNames:
+  - The Nautigal
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 607592da15cc83041841a6ee4553ce25, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
